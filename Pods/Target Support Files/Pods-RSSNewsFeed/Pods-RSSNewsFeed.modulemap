@@ -1,0 +1,6 @@
+framework module Pods_RSSNewsFeed {
+  umbrella header "Pods-RSSNewsFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
