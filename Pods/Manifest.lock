@@ -1,20 +1,38 @@
 PODS:
   - Alamofire (4.8.2)
+  - FeedKit (8.1.1)
   - Kingfisher (5.3.1)
+  - MBProgressHUD (1.1.0)
+  - Realm (3.14.1):
+    - Realm/Headers (= 3.14.1)
+  - Realm/Headers (3.14.1)
+  - RealmSwift (3.14.1):
+    - Realm (= 3.14.1)
 
 DEPENDENCIES:
   - Alamofire (~> 4.0)
+  - FeedKit
   - Kingfisher (~> 5.0)
+  - MBProgressHUD
+  - RealmSwift
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
+    - FeedKit
     - Kingfisher
+    - MBProgressHUD
+    - Realm
+    - RealmSwift
 
 SPEC CHECKSUMS:
   Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FeedKit: 3418eed25f0b493b205b4de1b8511ac21d413fa9
   Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  Realm: e12c9c2387d05c5bba3a9c394838f5870e85763b
+  RealmSwift: a82eab9b04c3e1616082c7e17aa300740847769c
 
-PODFILE CHECKSUM: 96390e2d1e6155fe0be8cc88e0f0dc65148f3f11
+PODFILE CHECKSUM: 32998189d1bac55b06e7630771aa923ec889bf42
 
 COCOAPODS: 1.5.3

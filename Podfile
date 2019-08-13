@@ -9,5 +9,8 @@ target 'RSSNewsFeed' do
   
   pod 'Alamofire', '~> 4.0'
   pod 'Kingfisher', '~> 5.0'
+  pod 'FeedKit'
+  pod 'MBProgressHUD'
+  pod 'RealmSwift'
   
 end
